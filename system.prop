@@ -1,0 +1,56 @@
+# ZTE Nubia Red Magic 9 Pro
+
+ro.product.manufacturer=ZTE
+ro.product.brand=Nubia
+ro.product.marketname=Nubia Red Magic 9 Pro
+ro.product.model=NX709J
+
+ro.product.brand=Nubia
+ro.product.manufacturer=ZTE
+ro.product.device=NX709J
+ro.product.system.model=NX709J
+ro.product.model=NX709J
+ro.product.name=Nubia Red Magic 9 Pro
+ro.product.marketname=Nubia Red Magic 9 Pro
+
+#codename
+#ro.product.board=
+#ro.board.platform=
+
+# System
+ro.product.system.brand=Nubia
+ro.product.system.device=NX709J
+ro.product.system.manufacturer=ZTE
+ro.product.system.model=NX709J
+ro.product.system.name=Nubia Red Magic 9 Pro
+ro.product.system_ext.model=NX709J
+
+# Vendor
+ro.product.vendor.brand=Nubia
+ro.product.vendor.device=NX709J
+ro.product.vendor.manufacturer=ZTE
+ro.product.vendor.model=NX709J
+ro.product.vendor.name=Nubia Red Magic 9 Pro
+
+# ODM (Original Device Manufacturer)
+ro.product.odm.brand=Nubia
+ro.product.odm.device=NX709J
+ro.product.odm.manufacturer=ZTE
+ro.product.odm.model=NX709J
+ro.product.odm.name=Nubia Red Magic 9 Pro
+
+# BootImage
+ro.product.bootimage.brand=Nubia
+ro.product.bootimage.device=NX709J
+ro.product.bootimage.manufacturer=ZTE
+ro.product.bootimage.model=NX709J
+ro.product.bootimage.name=Nubia Red Magic 9 Pro
+
+# GPU Spoof
+ro.gpu.model=Adreno (TM) 730
+ro.hardware.gpuname=Adreno (TM) 730
+
+# CPU Spoof (Snapdragon 8 Gen 3)
+ro.soc.model=SM8650
+ro.hardware.chipname=SM8650
+ro.chipname=SM8650
